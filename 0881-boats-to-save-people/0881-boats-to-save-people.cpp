@@ -5,7 +5,7 @@ public:
         int left = 0 , n = people.size();
         int right = n -1;
         int boats = 0 ;
-        while( left <= right){
+        while( left < right){
             if(people[left] + people[right] <= limit){
                 left++ , right--;
                 boats++;
