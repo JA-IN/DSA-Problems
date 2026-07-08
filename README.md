@@ -5,6 +5,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0209-minimum-size-subarray-sum](https://github.com/JA-IN/DSA-Problems/tree/master/0209-minimum-size-subarray-sum) |
+| [0735-asteroid-collision](https://github.com/JA-IN/DSA-Problems/tree/master/0735-asteroid-collision) |
 | [0739-daily-temperatures](https://github.com/JA-IN/DSA-Problems/tree/master/0739-daily-temperatures) |
 | [0904-fruit-into-baskets](https://github.com/JA-IN/DSA-Problems/tree/master/0904-fruit-into-baskets) |
 | [1493-longest-subarray-of-1s-after-deleting-one-element](https://github.com/JA-IN/DSA-Problems/tree/master/1493-longest-subarray-of-1s-after-deleting-one-element) |
@@ -52,6 +53,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Stack
 |  |
 | ------- |
+| [0735-asteroid-collision](https://github.com/JA-IN/DSA-Problems/tree/master/0735-asteroid-collision) |
 | [0739-daily-temperatures](https://github.com/JA-IN/DSA-Problems/tree/master/0739-daily-temperatures) |
 | [0901-online-stock-span](https://github.com/JA-IN/DSA-Problems/tree/master/0901-online-stock-span) |
 ## Monotonic Stack
@@ -67,4 +69,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0901-online-stock-span](https://github.com/JA-IN/DSA-Problems/tree/master/0901-online-stock-span) |
+## Simulation
+|  |
+| ------- |
+| [0735-asteroid-collision](https://github.com/JA-IN/DSA-Problems/tree/master/0735-asteroid-collision) |
 <!---LeetCode Topics End-->
