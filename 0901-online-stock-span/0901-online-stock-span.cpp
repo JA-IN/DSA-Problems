@@ -1,29 +1,26 @@
 class StockSpanner {
 public:
-        
-    vector<int>span;
-    int maxspan(vector<int>&span , int price){
-        stack<int>s;
-        int ans = 0 ;
-        int n = span.size();
-        if(n==1){
-            return 1;
-        }
-        int curr = n-1;
+    vector<int> span;
+    stack<int> s;
 
-       while(curr >=0 && price >= span[curr]){
-        curr--;
-        ans++;
-       }
-        return ans;
-    }
-    StockSpanner() {
+    StockSpanner() {}
 
-    }
-    
     int next(int price) {
         span.push_back(price);
-        int ans = maxspan(span , price);
+        int ans = 0;
+        int n = span.size();
+        int curr_idx = n - 1;
+        while (!s.empty() && span[curr_idx] >= span[s.top()]) {
+            s.pop();
+        }
+
+        if (s.empty()) {
+            ans = n;
+        } else {
+            ans = curr_idx - s.top();
+        }
+        s.push(curr_idx);
+
         return ans;
     }
 };
