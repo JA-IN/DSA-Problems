@@ -4,6 +4,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Array
 |  |
 | ------- |
+| [0085-maximal-rectangle](https://github.com/JA-IN/DSA-Problems/tree/master/0085-maximal-rectangle) |
 | [0209-minimum-size-subarray-sum](https://github.com/JA-IN/DSA-Problems/tree/master/0209-minimum-size-subarray-sum) |
 | [0735-asteroid-collision](https://github.com/JA-IN/DSA-Problems/tree/master/0735-asteroid-collision) |
 | [0739-daily-temperatures](https://github.com/JA-IN/DSA-Problems/tree/master/0739-daily-temperatures) |
@@ -51,11 +52,13 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Dynamic Programming
 |  |
 | ------- |
+| [0085-maximal-rectangle](https://github.com/JA-IN/DSA-Problems/tree/master/0085-maximal-rectangle) |
 | [0907-sum-of-subarray-minimums](https://github.com/JA-IN/DSA-Problems/tree/master/0907-sum-of-subarray-minimums) |
 | [1493-longest-subarray-of-1s-after-deleting-one-element](https://github.com/JA-IN/DSA-Problems/tree/master/1493-longest-subarray-of-1s-after-deleting-one-element) |
 ## Stack
 |  |
 | ------- |
+| [0085-maximal-rectangle](https://github.com/JA-IN/DSA-Problems/tree/master/0085-maximal-rectangle) |
 | [0402-remove-k-digits](https://github.com/JA-IN/DSA-Problems/tree/master/0402-remove-k-digits) |
 | [0735-asteroid-collision](https://github.com/JA-IN/DSA-Problems/tree/master/0735-asteroid-collision) |
 | [0739-daily-temperatures](https://github.com/JA-IN/DSA-Problems/tree/master/0739-daily-temperatures) |
@@ -64,6 +67,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Monotonic Stack
 |  |
 | ------- |
+| [0085-maximal-rectangle](https://github.com/JA-IN/DSA-Problems/tree/master/0085-maximal-rectangle) |
 | [0402-remove-k-digits](https://github.com/JA-IN/DSA-Problems/tree/master/0402-remove-k-digits) |
 | [0739-daily-temperatures](https://github.com/JA-IN/DSA-Problems/tree/master/0739-daily-temperatures) |
 | [0901-online-stock-span](https://github.com/JA-IN/DSA-Problems/tree/master/0901-online-stock-span) |
@@ -84,4 +88,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0402-remove-k-digits](https://github.com/JA-IN/DSA-Problems/tree/master/0402-remove-k-digits) |
+## Matrix
+|  |
+| ------- |
+| [0085-maximal-rectangle](https://github.com/JA-IN/DSA-Problems/tree/master/0085-maximal-rectangle) |
 <!---LeetCode Topics End-->
