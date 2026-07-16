@@ -11,6 +11,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0085-maximal-rectangle](https://github.com/JA-IN/DSA-Problems/tree/master/0085-maximal-rectangle) |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/JA-IN/DSA-Problems/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0154-find-minimum-in-rotated-sorted-array-ii](https://github.com/JA-IN/DSA-Problems/tree/master/0154-find-minimum-in-rotated-sorted-array-ii) |
+| [0162-find-peak-element](https://github.com/JA-IN/DSA-Problems/tree/master/0162-find-peak-element) |
 | [0209-minimum-size-subarray-sum](https://github.com/JA-IN/DSA-Problems/tree/master/0209-minimum-size-subarray-sum) |
 | [0456-132-pattern](https://github.com/JA-IN/DSA-Problems/tree/master/0456-132-pattern) |
 | [0735-asteroid-collision](https://github.com/JA-IN/DSA-Problems/tree/master/0735-asteroid-collision) |
@@ -29,6 +30,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0081-search-in-rotated-sorted-array-ii](https://github.com/JA-IN/DSA-Problems/tree/master/0081-search-in-rotated-sorted-array-ii) |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/JA-IN/DSA-Problems/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0154-find-minimum-in-rotated-sorted-array-ii](https://github.com/JA-IN/DSA-Problems/tree/master/0154-find-minimum-in-rotated-sorted-array-ii) |
+| [0162-find-peak-element](https://github.com/JA-IN/DSA-Problems/tree/master/0162-find-peak-element) |
 | [0209-minimum-size-subarray-sum](https://github.com/JA-IN/DSA-Problems/tree/master/0209-minimum-size-subarray-sum) |
 | [0367-valid-perfect-square](https://github.com/JA-IN/DSA-Problems/tree/master/0367-valid-perfect-square) |
 | [0456-132-pattern](https://github.com/JA-IN/DSA-Problems/tree/master/0456-132-pattern) |
