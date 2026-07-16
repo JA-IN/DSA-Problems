@@ -21,6 +21,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0875-koko-eating-bananas](https://github.com/JA-IN/DSA-Problems/tree/master/0875-koko-eating-bananas) |
 | [0904-fruit-into-baskets](https://github.com/JA-IN/DSA-Problems/tree/master/0904-fruit-into-baskets) |
 | [0907-sum-of-subarray-minimums](https://github.com/JA-IN/DSA-Problems/tree/master/0907-sum-of-subarray-minimums) |
+| [1011-capacity-to-ship-packages-within-d-days](https://github.com/JA-IN/DSA-Problems/tree/master/1011-capacity-to-ship-packages-within-d-days) |
 | [1493-longest-subarray-of-1s-after-deleting-one-element](https://github.com/JA-IN/DSA-Problems/tree/master/1493-longest-subarray-of-1s-after-deleting-one-element) |
 ## Binary Search
 |  |
@@ -39,6 +40,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0744-find-smallest-letter-greater-than-target](https://github.com/JA-IN/DSA-Problems/tree/master/0744-find-smallest-letter-greater-than-target) |
 | [0852-peak-index-in-a-mountain-array](https://github.com/JA-IN/DSA-Problems/tree/master/0852-peak-index-in-a-mountain-array) |
 | [0875-koko-eating-bananas](https://github.com/JA-IN/DSA-Problems/tree/master/0875-koko-eating-bananas) |
+| [1011-capacity-to-ship-packages-within-d-days](https://github.com/JA-IN/DSA-Problems/tree/master/1011-capacity-to-ship-packages-within-d-days) |
 ## Sliding Window
 |  |
 | ------- |
