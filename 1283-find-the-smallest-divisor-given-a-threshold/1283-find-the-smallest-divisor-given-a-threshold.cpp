@@ -18,17 +18,17 @@ public:
         int left = 1 ;
         int right = *max_element(nums.begin() , nums.end());
         int ans ;
-        while(left <= right){
+        while(left < right){
             int mid = left + ( right - left)/2;
 
             if(ispossible(nums , threshold , mid)){
-                ans = mid ;
-                right = mid -1;
+                
+                right = mid ;
             }
             else{
                 left = mid +1 ;
             }
         }
-        return ans;
+        return right;
     }
 };
