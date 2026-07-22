@@ -18,6 +18,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0410-split-array-largest-sum](https://github.com/JA-IN/DSA-Problems/tree/master/0410-split-array-largest-sum) |
 | [0455-assign-cookies](https://github.com/JA-IN/DSA-Problems/tree/master/0455-assign-cookies) |
 | [0456-132-pattern](https://github.com/JA-IN/DSA-Problems/tree/master/0456-132-pattern) |
+| [0605-can-place-flowers](https://github.com/JA-IN/DSA-Problems/tree/master/0605-can-place-flowers) |
 | [0735-asteroid-collision](https://github.com/JA-IN/DSA-Problems/tree/master/0735-asteroid-collision) |
 | [0739-daily-temperatures](https://github.com/JA-IN/DSA-Problems/tree/master/0739-daily-temperatures) |
 | [0744-find-smallest-letter-greater-than-target](https://github.com/JA-IN/DSA-Problems/tree/master/0744-find-smallest-letter-greater-than-target) |
@@ -137,6 +138,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0402-remove-k-digits](https://github.com/JA-IN/DSA-Problems/tree/master/0402-remove-k-digits) |
 | [0410-split-array-largest-sum](https://github.com/JA-IN/DSA-Problems/tree/master/0410-split-array-largest-sum) |
 | [0455-assign-cookies](https://github.com/JA-IN/DSA-Problems/tree/master/0455-assign-cookies) |
+| [0605-can-place-flowers](https://github.com/JA-IN/DSA-Problems/tree/master/0605-can-place-flowers) |
 | [0860-lemonade-change](https://github.com/JA-IN/DSA-Problems/tree/master/0860-lemonade-change) |
 ## Matrix
 |  |
