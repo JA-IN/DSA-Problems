@@ -8,6 +8,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0033-search-in-rotated-sorted-array](https://github.com/JA-IN/DSA-Problems/tree/master/0033-search-in-rotated-sorted-array) |
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/JA-IN/DSA-Problems/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
 | [0035-search-insert-position](https://github.com/JA-IN/DSA-Problems/tree/master/0035-search-insert-position) |
+| [0045-jump-game-ii](https://github.com/JA-IN/DSA-Problems/tree/master/0045-jump-game-ii) |
 | [0055-jump-game](https://github.com/JA-IN/DSA-Problems/tree/master/0055-jump-game) |
 | [0056-merge-intervals](https://github.com/JA-IN/DSA-Problems/tree/master/0056-merge-intervals) |
 | [0081-search-in-rotated-sorted-array-ii](https://github.com/JA-IN/DSA-Problems/tree/master/0081-search-in-rotated-sorted-array-ii) |
@@ -101,6 +102,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Dynamic Programming
 |  |
 | ------- |
+| [0045-jump-game-ii](https://github.com/JA-IN/DSA-Problems/tree/master/0045-jump-game-ii) |
 | [0055-jump-game](https://github.com/JA-IN/DSA-Problems/tree/master/0055-jump-game) |
 | [0085-maximal-rectangle](https://github.com/JA-IN/DSA-Problems/tree/master/0085-maximal-rectangle) |
 | [0410-split-array-largest-sum](https://github.com/JA-IN/DSA-Problems/tree/master/0410-split-array-largest-sum) |
@@ -141,6 +143,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Greedy
 |  |
 | ------- |
+| [0045-jump-game-ii](https://github.com/JA-IN/DSA-Problems/tree/master/0045-jump-game-ii) |
 | [0055-jump-game](https://github.com/JA-IN/DSA-Problems/tree/master/0055-jump-game) |
 | [0402-remove-k-digits](https://github.com/JA-IN/DSA-Problems/tree/master/0402-remove-k-digits) |
 | [0410-split-array-largest-sum](https://github.com/JA-IN/DSA-Problems/tree/master/0410-split-array-largest-sum) |
