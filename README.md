@@ -16,6 +16,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0209-minimum-size-subarray-sum](https://github.com/JA-IN/DSA-Problems/tree/master/0209-minimum-size-subarray-sum) |
 | [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/JA-IN/DSA-Problems/tree/master/0378-kth-smallest-element-in-a-sorted-matrix) |
 | [0410-split-array-largest-sum](https://github.com/JA-IN/DSA-Problems/tree/master/0410-split-array-largest-sum) |
+| [0435-non-overlapping-intervals](https://github.com/JA-IN/DSA-Problems/tree/master/0435-non-overlapping-intervals) |
 | [0455-assign-cookies](https://github.com/JA-IN/DSA-Problems/tree/master/0455-assign-cookies) |
 | [0456-132-pattern](https://github.com/JA-IN/DSA-Problems/tree/master/0456-132-pattern) |
 | [0605-can-place-flowers](https://github.com/JA-IN/DSA-Problems/tree/master/0605-can-place-flowers) |
@@ -99,6 +100,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0085-maximal-rectangle](https://github.com/JA-IN/DSA-Problems/tree/master/0085-maximal-rectangle) |
 | [0410-split-array-largest-sum](https://github.com/JA-IN/DSA-Problems/tree/master/0410-split-array-largest-sum) |
+| [0435-non-overlapping-intervals](https://github.com/JA-IN/DSA-Problems/tree/master/0435-non-overlapping-intervals) |
 | [0907-sum-of-subarray-minimums](https://github.com/JA-IN/DSA-Problems/tree/master/0907-sum-of-subarray-minimums) |
 | [1493-longest-subarray-of-1s-after-deleting-one-element](https://github.com/JA-IN/DSA-Problems/tree/master/1493-longest-subarray-of-1s-after-deleting-one-element) |
 ## Stack
@@ -137,6 +139,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0402-remove-k-digits](https://github.com/JA-IN/DSA-Problems/tree/master/0402-remove-k-digits) |
 | [0410-split-array-largest-sum](https://github.com/JA-IN/DSA-Problems/tree/master/0410-split-array-largest-sum) |
+| [0435-non-overlapping-intervals](https://github.com/JA-IN/DSA-Problems/tree/master/0435-non-overlapping-intervals) |
 | [0455-assign-cookies](https://github.com/JA-IN/DSA-Problems/tree/master/0455-assign-cookies) |
 | [0605-can-place-flowers](https://github.com/JA-IN/DSA-Problems/tree/master/0605-can-place-flowers) |
 | [0860-lemonade-change](https://github.com/JA-IN/DSA-Problems/tree/master/0860-lemonade-change) |
@@ -158,6 +161,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/JA-IN/DSA-Problems/tree/master/0378-kth-smallest-element-in-a-sorted-matrix) |
+| [0435-non-overlapping-intervals](https://github.com/JA-IN/DSA-Problems/tree/master/0435-non-overlapping-intervals) |
 | [0455-assign-cookies](https://github.com/JA-IN/DSA-Problems/tree/master/0455-assign-cookies) |
 | [1552-magnetic-force-between-two-balls](https://github.com/JA-IN/DSA-Problems/tree/master/1552-magnetic-force-between-two-balls) |
 ## Heap (Priority Queue)
