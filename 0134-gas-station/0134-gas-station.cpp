@@ -6,7 +6,7 @@ public:
        
         int i = 0, start = 0;
         int tank = 0 , total = 0;
-        while (i < n) {
+        for(i = 0 ; i< n ;i++) {
             int diff = gas[i] - cost[i];
 
             tank += diff;
@@ -16,7 +16,6 @@ public:
                 start = i+1;
                 tank = 0 ;
             }
-            i++;
         }
         
         if(total < 0) return -1 ;
