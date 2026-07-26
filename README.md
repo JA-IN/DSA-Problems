@@ -87,6 +87,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/JA-IN/DSA-Problems/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0076-minimum-window-substring](https://github.com/JA-IN/DSA-Problems/tree/master/0076-minimum-window-substring) |
+| [0202-happy-number](https://github.com/JA-IN/DSA-Problems/tree/master/0202-happy-number) |
 | [0217-contains-duplicate](https://github.com/JA-IN/DSA-Problems/tree/master/0217-contains-duplicate) |
 | [0424-longest-repeating-character-replacement](https://github.com/JA-IN/DSA-Problems/tree/master/0424-longest-repeating-character-replacement) |
 | [0567-permutation-in-string](https://github.com/JA-IN/DSA-Problems/tree/master/0567-permutation-in-string) |
@@ -104,6 +105,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Two Pointers
 |  |
 | ------- |
+| [0202-happy-number](https://github.com/JA-IN/DSA-Problems/tree/master/0202-happy-number) |
 | [0455-assign-cookies](https://github.com/JA-IN/DSA-Problems/tree/master/0455-assign-cookies) |
 | [0567-permutation-in-string](https://github.com/JA-IN/DSA-Problems/tree/master/0567-permutation-in-string) |
 | [0763-partition-labels](https://github.com/JA-IN/DSA-Problems/tree/master/0763-partition-labels) |
@@ -176,6 +178,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0069-sqrtx](https://github.com/JA-IN/DSA-Problems/tree/master/0069-sqrtx) |
+| [0202-happy-number](https://github.com/JA-IN/DSA-Problems/tree/master/0202-happy-number) |
 | [0367-valid-perfect-square](https://github.com/JA-IN/DSA-Problems/tree/master/0367-valid-perfect-square) |
 ## Sorting
 |  |
