@@ -13,6 +13,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0056-merge-intervals](https://github.com/JA-IN/DSA-Problems/tree/master/0056-merge-intervals) |
 | [0081-search-in-rotated-sorted-array-ii](https://github.com/JA-IN/DSA-Problems/tree/master/0081-search-in-rotated-sorted-array-ii) |
 | [0085-maximal-rectangle](https://github.com/JA-IN/DSA-Problems/tree/master/0085-maximal-rectangle) |
+| [0128-longest-consecutive-sequence](https://github.com/JA-IN/DSA-Problems/tree/master/0128-longest-consecutive-sequence) |
 | [0134-gas-station](https://github.com/JA-IN/DSA-Problems/tree/master/0134-gas-station) |
 | [0135-candy](https://github.com/JA-IN/DSA-Problems/tree/master/0135-candy) |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/JA-IN/DSA-Problems/tree/master/0153-find-minimum-in-rotated-sorted-array) |
@@ -87,6 +88,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/JA-IN/DSA-Problems/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0076-minimum-window-substring](https://github.com/JA-IN/DSA-Problems/tree/master/0076-minimum-window-substring) |
+| [0128-longest-consecutive-sequence](https://github.com/JA-IN/DSA-Problems/tree/master/0128-longest-consecutive-sequence) |
 | [0202-happy-number](https://github.com/JA-IN/DSA-Problems/tree/master/0202-happy-number) |
 | [0217-contains-duplicate](https://github.com/JA-IN/DSA-Problems/tree/master/0217-contains-duplicate) |
 | [0424-longest-repeating-character-replacement](https://github.com/JA-IN/DSA-Problems/tree/master/0424-longest-repeating-character-replacement) |
@@ -207,4 +209,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0406-queue-reconstruction-by-height](https://github.com/JA-IN/DSA-Problems/tree/master/0406-queue-reconstruction-by-height) |
+## Union-Find
+|  |
+| ------- |
+| [0128-longest-consecutive-sequence](https://github.com/JA-IN/DSA-Problems/tree/master/0128-longest-consecutive-sequence) |
 <!---LeetCode Topics End-->
