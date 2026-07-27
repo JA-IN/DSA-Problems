@@ -19,6 +19,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/JA-IN/DSA-Problems/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0154-find-minimum-in-rotated-sorted-array-ii](https://github.com/JA-IN/DSA-Problems/tree/master/0154-find-minimum-in-rotated-sorted-array-ii) |
 | [0162-find-peak-element](https://github.com/JA-IN/DSA-Problems/tree/master/0162-find-peak-element) |
+| [0169-majority-element](https://github.com/JA-IN/DSA-Problems/tree/master/0169-majority-element) |
 | [0209-minimum-size-subarray-sum](https://github.com/JA-IN/DSA-Problems/tree/master/0209-minimum-size-subarray-sum) |
 | [0217-contains-duplicate](https://github.com/JA-IN/DSA-Problems/tree/master/0217-contains-duplicate) |
 | [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/JA-IN/DSA-Problems/tree/master/0378-kth-smallest-element-in-a-sorted-matrix) |
@@ -90,6 +91,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0003-longest-substring-without-repeating-characters](https://github.com/JA-IN/DSA-Problems/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0076-minimum-window-substring](https://github.com/JA-IN/DSA-Problems/tree/master/0076-minimum-window-substring) |
 | [0128-longest-consecutive-sequence](https://github.com/JA-IN/DSA-Problems/tree/master/0128-longest-consecutive-sequence) |
+| [0169-majority-element](https://github.com/JA-IN/DSA-Problems/tree/master/0169-majority-element) |
 | [0202-happy-number](https://github.com/JA-IN/DSA-Problems/tree/master/0202-happy-number) |
 | [0205-isomorphic-strings](https://github.com/JA-IN/DSA-Problems/tree/master/0205-isomorphic-strings) |
 | [0217-contains-duplicate](https://github.com/JA-IN/DSA-Problems/tree/master/0217-contains-duplicate) |
@@ -196,6 +198,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0056-merge-intervals](https://github.com/JA-IN/DSA-Problems/tree/master/0056-merge-intervals) |
+| [0169-majority-element](https://github.com/JA-IN/DSA-Problems/tree/master/0169-majority-element) |
 | [0217-contains-duplicate](https://github.com/JA-IN/DSA-Problems/tree/master/0217-contains-duplicate) |
 | [0242-valid-anagram](https://github.com/JA-IN/DSA-Problems/tree/master/0242-valid-anagram) |
 | [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/JA-IN/DSA-Problems/tree/master/0378-kth-smallest-element-in-a-sorted-matrix) |
@@ -212,6 +215,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0004-median-of-two-sorted-arrays](https://github.com/JA-IN/DSA-Problems/tree/master/0004-median-of-two-sorted-arrays) |
+| [0169-majority-element](https://github.com/JA-IN/DSA-Problems/tree/master/0169-majority-element) |
 ## Binary Indexed Tree
 |  |
 | ------- |
@@ -227,5 +231,6 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Counting
 |  |
 | ------- |
+| [0169-majority-element](https://github.com/JA-IN/DSA-Problems/tree/master/0169-majority-element) |
 | [0383-ransom-note](https://github.com/JA-IN/DSA-Problems/tree/master/0383-ransom-note) |
 <!---LeetCode Topics End-->
