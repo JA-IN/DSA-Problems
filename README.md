@@ -31,6 +31,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0455-assign-cookies](https://github.com/JA-IN/DSA-Problems/tree/master/0455-assign-cookies) |
 | [0456-132-pattern](https://github.com/JA-IN/DSA-Problems/tree/master/0456-132-pattern) |
 | [0523-continuous-subarray-sum](https://github.com/JA-IN/DSA-Problems/tree/master/0523-continuous-subarray-sum) |
+| [0525-contiguous-array](https://github.com/JA-IN/DSA-Problems/tree/master/0525-contiguous-array) |
 | [0560-subarray-sum-equals-k](https://github.com/JA-IN/DSA-Problems/tree/master/0560-subarray-sum-equals-k) |
 | [0605-can-place-flowers](https://github.com/JA-IN/DSA-Problems/tree/master/0605-can-place-flowers) |
 | [0735-asteroid-collision](https://github.com/JA-IN/DSA-Problems/tree/master/0735-asteroid-collision) |
@@ -88,6 +89,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0209-minimum-size-subarray-sum](https://github.com/JA-IN/DSA-Problems/tree/master/0209-minimum-size-subarray-sum) |
 | [0410-split-array-largest-sum](https://github.com/JA-IN/DSA-Problems/tree/master/0410-split-array-largest-sum) |
 | [0523-continuous-subarray-sum](https://github.com/JA-IN/DSA-Problems/tree/master/0523-continuous-subarray-sum) |
+| [0525-contiguous-array](https://github.com/JA-IN/DSA-Problems/tree/master/0525-contiguous-array) |
 | [0560-subarray-sum-equals-k](https://github.com/JA-IN/DSA-Problems/tree/master/0560-subarray-sum-equals-k) |
 ## Hash Table
 |  |
@@ -105,6 +107,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0424-longest-repeating-character-replacement](https://github.com/JA-IN/DSA-Problems/tree/master/0424-longest-repeating-character-replacement) |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/JA-IN/DSA-Problems/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
 | [0523-continuous-subarray-sum](https://github.com/JA-IN/DSA-Problems/tree/master/0523-continuous-subarray-sum) |
+| [0525-contiguous-array](https://github.com/JA-IN/DSA-Problems/tree/master/0525-contiguous-array) |
 | [0560-subarray-sum-equals-k](https://github.com/JA-IN/DSA-Problems/tree/master/0560-subarray-sum-equals-k) |
 | [0567-permutation-in-string](https://github.com/JA-IN/DSA-Problems/tree/master/0567-permutation-in-string) |
 | [0763-partition-labels](https://github.com/JA-IN/DSA-Problems/tree/master/0763-partition-labels) |
