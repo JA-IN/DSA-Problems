@@ -48,6 +48,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1482-minimum-number-of-days-to-make-m-bouquets](https://github.com/JA-IN/DSA-Problems/tree/master/1482-minimum-number-of-days-to-make-m-bouquets) |
 | [1493-longest-subarray-of-1s-after-deleting-one-element](https://github.com/JA-IN/DSA-Problems/tree/master/1493-longest-subarray-of-1s-after-deleting-one-element) |
 | [1552-magnetic-force-between-two-balls](https://github.com/JA-IN/DSA-Problems/tree/master/1552-magnetic-force-between-two-balls) |
+| [2033-minimum-operations-to-make-a-uni-value-grid](https://github.com/JA-IN/DSA-Problems/tree/master/2033-minimum-operations-to-make-a-uni-value-grid) |
 | [2187-minimum-time-to-complete-trips](https://github.com/JA-IN/DSA-Problems/tree/master/2187-minimum-time-to-complete-trips) |
 ## Binary Search
 |  |
@@ -198,6 +199,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0085-maximal-rectangle](https://github.com/JA-IN/DSA-Problems/tree/master/0085-maximal-rectangle) |
 | [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/JA-IN/DSA-Problems/tree/master/0378-kth-smallest-element-in-a-sorted-matrix) |
+| [2033-minimum-operations-to-make-a-uni-value-grid](https://github.com/JA-IN/DSA-Problems/tree/master/2033-minimum-operations-to-make-a-uni-value-grid) |
 ## Ordered Set
 |  |
 | ------- |
@@ -210,6 +212,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0202-happy-number](https://github.com/JA-IN/DSA-Problems/tree/master/0202-happy-number) |
 | [0367-valid-perfect-square](https://github.com/JA-IN/DSA-Problems/tree/master/0367-valid-perfect-square) |
 | [0523-continuous-subarray-sum](https://github.com/JA-IN/DSA-Problems/tree/master/0523-continuous-subarray-sum) |
+| [2033-minimum-operations-to-make-a-uni-value-grid](https://github.com/JA-IN/DSA-Problems/tree/master/2033-minimum-operations-to-make-a-uni-value-grid) |
 ## Sorting
 |  |
 | ------- |
@@ -224,6 +227,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0452-minimum-number-of-arrows-to-burst-balloons](https://github.com/JA-IN/DSA-Problems/tree/master/0452-minimum-number-of-arrows-to-burst-balloons) |
 | [0455-assign-cookies](https://github.com/JA-IN/DSA-Problems/tree/master/0455-assign-cookies) |
 | [1552-magnetic-force-between-two-balls](https://github.com/JA-IN/DSA-Problems/tree/master/1552-magnetic-force-between-two-balls) |
+| [2033-minimum-operations-to-make-a-uni-value-grid](https://github.com/JA-IN/DSA-Problems/tree/master/2033-minimum-operations-to-make-a-uni-value-grid) |
 ## Heap (Priority Queue)
 |  |
 | ------- |
