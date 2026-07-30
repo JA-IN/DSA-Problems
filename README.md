@@ -15,6 +15,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0056-merge-intervals](https://github.com/JA-IN/DSA-Problems/tree/master/0056-merge-intervals) |
 | [0081-search-in-rotated-sorted-array-ii](https://github.com/JA-IN/DSA-Problems/tree/master/0081-search-in-rotated-sorted-array-ii) |
 | [0085-maximal-rectangle](https://github.com/JA-IN/DSA-Problems/tree/master/0085-maximal-rectangle) |
+| [0121-best-time-to-buy-and-sell-stock](https://github.com/JA-IN/DSA-Problems/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0128-longest-consecutive-sequence](https://github.com/JA-IN/DSA-Problems/tree/master/0128-longest-consecutive-sequence) |
 | [0134-gas-station](https://github.com/JA-IN/DSA-Problems/tree/master/0134-gas-station) |
 | [0135-candy](https://github.com/JA-IN/DSA-Problems/tree/master/0135-candy) |
@@ -149,6 +150,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0045-jump-game-ii](https://github.com/JA-IN/DSA-Problems/tree/master/0045-jump-game-ii) |
 | [0055-jump-game](https://github.com/JA-IN/DSA-Problems/tree/master/0055-jump-game) |
 | [0085-maximal-rectangle](https://github.com/JA-IN/DSA-Problems/tree/master/0085-maximal-rectangle) |
+| [0121-best-time-to-buy-and-sell-stock](https://github.com/JA-IN/DSA-Problems/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0410-split-array-largest-sum](https://github.com/JA-IN/DSA-Problems/tree/master/0410-split-array-largest-sum) |
 | [0435-non-overlapping-intervals](https://github.com/JA-IN/DSA-Problems/tree/master/0435-non-overlapping-intervals) |
 | [0907-sum-of-subarray-minimums](https://github.com/JA-IN/DSA-Problems/tree/master/0907-sum-of-subarray-minimums) |
