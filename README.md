@@ -120,6 +120,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/JA-IN/DSA-Problems/tree/master/0003-longest-substring-without-repeating-characters) |
+| [0005-longest-palindromic-substring](https://github.com/JA-IN/DSA-Problems/tree/master/0005-longest-palindromic-substring) |
 | [0012-integer-to-roman](https://github.com/JA-IN/DSA-Problems/tree/master/0012-integer-to-roman) |
 | [0049-group-anagrams](https://github.com/JA-IN/DSA-Problems/tree/master/0049-group-anagrams) |
 | [0076-minimum-window-substring](https://github.com/JA-IN/DSA-Problems/tree/master/0076-minimum-window-substring) |
@@ -134,6 +135,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Two Pointers
 |  |
 | ------- |
+| [0005-longest-palindromic-substring](https://github.com/JA-IN/DSA-Problems/tree/master/0005-longest-palindromic-substring) |
 | [0202-happy-number](https://github.com/JA-IN/DSA-Problems/tree/master/0202-happy-number) |
 | [0455-assign-cookies](https://github.com/JA-IN/DSA-Problems/tree/master/0455-assign-cookies) |
 | [0567-permutation-in-string](https://github.com/JA-IN/DSA-Problems/tree/master/0567-permutation-in-string) |
@@ -141,6 +143,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Dynamic Programming
 |  |
 | ------- |
+| [0005-longest-palindromic-substring](https://github.com/JA-IN/DSA-Problems/tree/master/0005-longest-palindromic-substring) |
 | [0045-jump-game-ii](https://github.com/JA-IN/DSA-Problems/tree/master/0045-jump-game-ii) |
 | [0055-jump-game](https://github.com/JA-IN/DSA-Problems/tree/master/0055-jump-game) |
 | [0085-maximal-rectangle](https://github.com/JA-IN/DSA-Problems/tree/master/0085-maximal-rectangle) |
