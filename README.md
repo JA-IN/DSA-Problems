@@ -5,6 +5,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0004-median-of-two-sorted-arrays](https://github.com/JA-IN/DSA-Problems/tree/master/0004-median-of-two-sorted-arrays) |
+| [0014-longest-common-prefix](https://github.com/JA-IN/DSA-Problems/tree/master/0014-longest-common-prefix) |
 | [0033-search-in-rotated-sorted-array](https://github.com/JA-IN/DSA-Problems/tree/master/0033-search-in-rotated-sorted-array) |
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/JA-IN/DSA-Problems/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
 | [0035-search-insert-position](https://github.com/JA-IN/DSA-Problems/tree/master/0035-search-insert-position) |
@@ -122,6 +123,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0003-longest-substring-without-repeating-characters](https://github.com/JA-IN/DSA-Problems/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0005-longest-palindromic-substring](https://github.com/JA-IN/DSA-Problems/tree/master/0005-longest-palindromic-substring) |
 | [0012-integer-to-roman](https://github.com/JA-IN/DSA-Problems/tree/master/0012-integer-to-roman) |
+| [0014-longest-common-prefix](https://github.com/JA-IN/DSA-Problems/tree/master/0014-longest-common-prefix) |
 | [0049-group-anagrams](https://github.com/JA-IN/DSA-Problems/tree/master/0049-group-anagrams) |
 | [0076-minimum-window-substring](https://github.com/JA-IN/DSA-Problems/tree/master/0076-minimum-window-substring) |
 | [0205-isomorphic-strings](https://github.com/JA-IN/DSA-Problems/tree/master/0205-isomorphic-strings) |
@@ -257,4 +259,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0169-majority-element](https://github.com/JA-IN/DSA-Problems/tree/master/0169-majority-element) |
 | [0383-ransom-note](https://github.com/JA-IN/DSA-Problems/tree/master/0383-ransom-note) |
+## Trie
+|  |
+| ------- |
+| [0014-longest-common-prefix](https://github.com/JA-IN/DSA-Problems/tree/master/0014-longest-common-prefix) |
 <!---LeetCode Topics End-->
