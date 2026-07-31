@@ -127,6 +127,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0005-longest-palindromic-substring](https://github.com/JA-IN/DSA-Problems/tree/master/0005-longest-palindromic-substring) |
 | [0012-integer-to-roman](https://github.com/JA-IN/DSA-Problems/tree/master/0012-integer-to-roman) |
 | [0014-longest-common-prefix](https://github.com/JA-IN/DSA-Problems/tree/master/0014-longest-common-prefix) |
+| [0043-multiply-strings](https://github.com/JA-IN/DSA-Problems/tree/master/0043-multiply-strings) |
 | [0049-group-anagrams](https://github.com/JA-IN/DSA-Problems/tree/master/0049-group-anagrams) |
 | [0076-minimum-window-substring](https://github.com/JA-IN/DSA-Problems/tree/master/0076-minimum-window-substring) |
 | [0205-isomorphic-strings](https://github.com/JA-IN/DSA-Problems/tree/master/0205-isomorphic-strings) |
@@ -191,6 +192,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Simulation
 |  |
 | ------- |
+| [0043-multiply-strings](https://github.com/JA-IN/DSA-Problems/tree/master/0043-multiply-strings) |
 | [0735-asteroid-collision](https://github.com/JA-IN/DSA-Problems/tree/master/0735-asteroid-collision) |
 ## Greedy
 |  |
@@ -222,6 +224,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0007-reverse-integer](https://github.com/JA-IN/DSA-Problems/tree/master/0007-reverse-integer) |
 | [0012-integer-to-roman](https://github.com/JA-IN/DSA-Problems/tree/master/0012-integer-to-roman) |
+| [0043-multiply-strings](https://github.com/JA-IN/DSA-Problems/tree/master/0043-multiply-strings) |
 | [0050-powx-n](https://github.com/JA-IN/DSA-Problems/tree/master/0050-powx-n) |
 | [0069-sqrtx](https://github.com/JA-IN/DSA-Problems/tree/master/0069-sqrtx) |
 | [0189-rotate-array](https://github.com/JA-IN/DSA-Problems/tree/master/0189-rotate-array) |
