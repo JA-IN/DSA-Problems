@@ -114,6 +114,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0383-ransom-note](https://github.com/JA-IN/DSA-Problems/tree/master/0383-ransom-note) |
 | [0424-longest-repeating-character-replacement](https://github.com/JA-IN/DSA-Problems/tree/master/0424-longest-repeating-character-replacement) |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/JA-IN/DSA-Problems/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
+| [0451-sort-characters-by-frequency](https://github.com/JA-IN/DSA-Problems/tree/master/0451-sort-characters-by-frequency) |
 | [0523-continuous-subarray-sum](https://github.com/JA-IN/DSA-Problems/tree/master/0523-continuous-subarray-sum) |
 | [0525-contiguous-array](https://github.com/JA-IN/DSA-Problems/tree/master/0525-contiguous-array) |
 | [0560-subarray-sum-equals-k](https://github.com/JA-IN/DSA-Problems/tree/master/0560-subarray-sum-equals-k) |
@@ -137,6 +138,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0383-ransom-note](https://github.com/JA-IN/DSA-Problems/tree/master/0383-ransom-note) |
 | [0402-remove-k-digits](https://github.com/JA-IN/DSA-Problems/tree/master/0402-remove-k-digits) |
 | [0424-longest-repeating-character-replacement](https://github.com/JA-IN/DSA-Problems/tree/master/0424-longest-repeating-character-replacement) |
+| [0451-sort-characters-by-frequency](https://github.com/JA-IN/DSA-Problems/tree/master/0451-sort-characters-by-frequency) |
 | [0567-permutation-in-string](https://github.com/JA-IN/DSA-Problems/tree/master/0567-permutation-in-string) |
 | [0763-partition-labels](https://github.com/JA-IN/DSA-Problems/tree/master/0763-partition-labels) |
 ## Two Pointers
@@ -245,6 +247,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/JA-IN/DSA-Problems/tree/master/0378-kth-smallest-element-in-a-sorted-matrix) |
 | [0406-queue-reconstruction-by-height](https://github.com/JA-IN/DSA-Problems/tree/master/0406-queue-reconstruction-by-height) |
 | [0435-non-overlapping-intervals](https://github.com/JA-IN/DSA-Problems/tree/master/0435-non-overlapping-intervals) |
+| [0451-sort-characters-by-frequency](https://github.com/JA-IN/DSA-Problems/tree/master/0451-sort-characters-by-frequency) |
 | [0452-minimum-number-of-arrows-to-burst-balloons](https://github.com/JA-IN/DSA-Problems/tree/master/0452-minimum-number-of-arrows-to-burst-balloons) |
 | [0455-assign-cookies](https://github.com/JA-IN/DSA-Problems/tree/master/0455-assign-cookies) |
 | [1552-magnetic-force-between-two-balls](https://github.com/JA-IN/DSA-Problems/tree/master/1552-magnetic-force-between-two-balls) |
@@ -253,6 +256,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/JA-IN/DSA-Problems/tree/master/0378-kth-smallest-element-in-a-sorted-matrix) |
+| [0451-sort-characters-by-frequency](https://github.com/JA-IN/DSA-Problems/tree/master/0451-sort-characters-by-frequency) |
 ## Divide and Conquer
 |  |
 | ------- |
@@ -275,6 +279,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0169-majority-element](https://github.com/JA-IN/DSA-Problems/tree/master/0169-majority-element) |
 | [0383-ransom-note](https://github.com/JA-IN/DSA-Problems/tree/master/0383-ransom-note) |
+| [0451-sort-characters-by-frequency](https://github.com/JA-IN/DSA-Problems/tree/master/0451-sort-characters-by-frequency) |
 ## Trie
 |  |
 | ------- |
@@ -287,4 +292,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0062-unique-paths](https://github.com/JA-IN/DSA-Problems/tree/master/0062-unique-paths) |
+## Bucket Sort
+|  |
+| ------- |
+| [0451-sort-characters-by-frequency](https://github.com/JA-IN/DSA-Problems/tree/master/0451-sort-characters-by-frequency) |
 <!---LeetCode Topics End-->
