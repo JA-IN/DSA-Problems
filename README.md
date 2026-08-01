@@ -155,6 +155,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0005-longest-palindromic-substring](https://github.com/JA-IN/DSA-Problems/tree/master/0005-longest-palindromic-substring) |
 | [0045-jump-game-ii](https://github.com/JA-IN/DSA-Problems/tree/master/0045-jump-game-ii) |
 | [0055-jump-game](https://github.com/JA-IN/DSA-Problems/tree/master/0055-jump-game) |
+| [0062-unique-paths](https://github.com/JA-IN/DSA-Problems/tree/master/0062-unique-paths) |
 | [0085-maximal-rectangle](https://github.com/JA-IN/DSA-Problems/tree/master/0085-maximal-rectangle) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/JA-IN/DSA-Problems/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0198-house-robber](https://github.com/JA-IN/DSA-Problems/tree/master/0198-house-robber) |
@@ -226,6 +227,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0012-integer-to-roman](https://github.com/JA-IN/DSA-Problems/tree/master/0012-integer-to-roman) |
 | [0043-multiply-strings](https://github.com/JA-IN/DSA-Problems/tree/master/0043-multiply-strings) |
 | [0050-powx-n](https://github.com/JA-IN/DSA-Problems/tree/master/0050-powx-n) |
+| [0062-unique-paths](https://github.com/JA-IN/DSA-Problems/tree/master/0062-unique-paths) |
 | [0069-sqrtx](https://github.com/JA-IN/DSA-Problems/tree/master/0069-sqrtx) |
 | [0189-rotate-array](https://github.com/JA-IN/DSA-Problems/tree/master/0189-rotate-array) |
 | [0202-happy-number](https://github.com/JA-IN/DSA-Problems/tree/master/0202-happy-number) |
@@ -281,4 +283,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0050-powx-n](https://github.com/JA-IN/DSA-Problems/tree/master/0050-powx-n) |
+## Combinatorics
+|  |
+| ------- |
+| [0062-unique-paths](https://github.com/JA-IN/DSA-Problems/tree/master/0062-unique-paths) |
 <!---LeetCode Topics End-->
