@@ -42,6 +42,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0560-subarray-sum-equals-k](https://github.com/JA-IN/DSA-Problems/tree/master/0560-subarray-sum-equals-k) |
 | [0605-can-place-flowers](https://github.com/JA-IN/DSA-Problems/tree/master/0605-can-place-flowers) |
 | [0609-find-duplicate-file-in-system](https://github.com/JA-IN/DSA-Problems/tree/master/0609-find-duplicate-file-in-system) |
+| [0724-find-pivot-index](https://github.com/JA-IN/DSA-Problems/tree/master/0724-find-pivot-index) |
 | [0735-asteroid-collision](https://github.com/JA-IN/DSA-Problems/tree/master/0735-asteroid-collision) |
 | [0739-daily-temperatures](https://github.com/JA-IN/DSA-Problems/tree/master/0739-daily-temperatures) |
 | [0744-find-smallest-letter-greater-than-target](https://github.com/JA-IN/DSA-Problems/tree/master/0744-find-smallest-letter-greater-than-target) |
@@ -102,6 +103,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0523-continuous-subarray-sum](https://github.com/JA-IN/DSA-Problems/tree/master/0523-continuous-subarray-sum) |
 | [0525-contiguous-array](https://github.com/JA-IN/DSA-Problems/tree/master/0525-contiguous-array) |
 | [0560-subarray-sum-equals-k](https://github.com/JA-IN/DSA-Problems/tree/master/0560-subarray-sum-equals-k) |
+| [0724-find-pivot-index](https://github.com/JA-IN/DSA-Problems/tree/master/0724-find-pivot-index) |
 | [1480-running-sum-of-1d-array](https://github.com/JA-IN/DSA-Problems/tree/master/1480-running-sum-of-1d-array) |
 ## Hash Table
 |  |
