@@ -49,6 +49,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0744-find-smallest-letter-greater-than-target](https://github.com/JA-IN/DSA-Problems/tree/master/0744-find-smallest-letter-greater-than-target) |
 | [0852-peak-index-in-a-mountain-array](https://github.com/JA-IN/DSA-Problems/tree/master/0852-peak-index-in-a-mountain-array) |
 | [0860-lemonade-change](https://github.com/JA-IN/DSA-Problems/tree/master/0860-lemonade-change) |
+| [0862-shortest-subarray-with-sum-at-least-k](https://github.com/JA-IN/DSA-Problems/tree/master/0862-shortest-subarray-with-sum-at-least-k) |
 | [0875-koko-eating-bananas](https://github.com/JA-IN/DSA-Problems/tree/master/0875-koko-eating-bananas) |
 | [0904-fruit-into-baskets](https://github.com/JA-IN/DSA-Problems/tree/master/0904-fruit-into-baskets) |
 | [0907-sum-of-subarray-minimums](https://github.com/JA-IN/DSA-Problems/tree/master/0907-sum-of-subarray-minimums) |
@@ -80,6 +81,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0456-132-pattern](https://github.com/JA-IN/DSA-Problems/tree/master/0456-132-pattern) |
 | [0744-find-smallest-letter-greater-than-target](https://github.com/JA-IN/DSA-Problems/tree/master/0744-find-smallest-letter-greater-than-target) |
 | [0852-peak-index-in-a-mountain-array](https://github.com/JA-IN/DSA-Problems/tree/master/0852-peak-index-in-a-mountain-array) |
+| [0862-shortest-subarray-with-sum-at-least-k](https://github.com/JA-IN/DSA-Problems/tree/master/0862-shortest-subarray-with-sum-at-least-k) |
 | [0875-koko-eating-bananas](https://github.com/JA-IN/DSA-Problems/tree/master/0875-koko-eating-bananas) |
 | [1011-capacity-to-ship-packages-within-d-days](https://github.com/JA-IN/DSA-Problems/tree/master/1011-capacity-to-ship-packages-within-d-days) |
 | [1283-find-the-smallest-divisor-given-a-threshold](https://github.com/JA-IN/DSA-Problems/tree/master/1283-find-the-smallest-divisor-given-a-threshold) |
@@ -94,6 +96,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0209-minimum-size-subarray-sum](https://github.com/JA-IN/DSA-Problems/tree/master/0209-minimum-size-subarray-sum) |
 | [0424-longest-repeating-character-replacement](https://github.com/JA-IN/DSA-Problems/tree/master/0424-longest-repeating-character-replacement) |
 | [0567-permutation-in-string](https://github.com/JA-IN/DSA-Problems/tree/master/0567-permutation-in-string) |
+| [0862-shortest-subarray-with-sum-at-least-k](https://github.com/JA-IN/DSA-Problems/tree/master/0862-shortest-subarray-with-sum-at-least-k) |
 | [0904-fruit-into-baskets](https://github.com/JA-IN/DSA-Problems/tree/master/0904-fruit-into-baskets) |
 | [1493-longest-subarray-of-1s-after-deleting-one-element](https://github.com/JA-IN/DSA-Problems/tree/master/1493-longest-subarray-of-1s-after-deleting-one-element) |
 ## Prefix Sum
@@ -107,6 +110,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0525-contiguous-array](https://github.com/JA-IN/DSA-Problems/tree/master/0525-contiguous-array) |
 | [0560-subarray-sum-equals-k](https://github.com/JA-IN/DSA-Problems/tree/master/0560-subarray-sum-equals-k) |
 | [0724-find-pivot-index](https://github.com/JA-IN/DSA-Problems/tree/master/0724-find-pivot-index) |
+| [0862-shortest-subarray-with-sum-at-least-k](https://github.com/JA-IN/DSA-Problems/tree/master/0862-shortest-subarray-with-sum-at-least-k) |
 | [0974-subarray-sums-divisible-by-k](https://github.com/JA-IN/DSA-Problems/tree/master/0974-subarray-sums-divisible-by-k) |
 | [1480-running-sum-of-1d-array](https://github.com/JA-IN/DSA-Problems/tree/master/1480-running-sum-of-1d-array) |
 ## Hash Table
@@ -283,6 +287,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0347-top-k-frequent-elements](https://github.com/JA-IN/DSA-Problems/tree/master/0347-top-k-frequent-elements) |
 | [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/JA-IN/DSA-Problems/tree/master/0378-kth-smallest-element-in-a-sorted-matrix) |
 | [0451-sort-characters-by-frequency](https://github.com/JA-IN/DSA-Problems/tree/master/0451-sort-characters-by-frequency) |
+| [0862-shortest-subarray-with-sum-at-least-k](https://github.com/JA-IN/DSA-Problems/tree/master/0862-shortest-subarray-with-sum-at-least-k) |
 ## Divide and Conquer
 |  |
 | ------- |
@@ -350,4 +355,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/JA-IN/DSA-Problems/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
+## Queue
+|  |
+| ------- |
+| [0862-shortest-subarray-with-sum-at-least-k](https://github.com/JA-IN/DSA-Problems/tree/master/0862-shortest-subarray-with-sum-at-least-k) |
+## Monotonic Queue
+|  |
+| ------- |
+| [0862-shortest-subarray-with-sum-at-least-k](https://github.com/JA-IN/DSA-Problems/tree/master/0862-shortest-subarray-with-sum-at-least-k) |
 <!---LeetCode Topics End-->
